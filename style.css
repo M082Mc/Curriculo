@@ -50,16 +50,16 @@ h1{
     
 }
 .p4:hover{
-opacity: 50%;
+opacity: 90%;
 transform: scale(1.2);
 
 }
 .p5:hover{
-    opacity: 50%;
+    opacity: 90%;
     transform: scale(1.2);
 }
 .p6:hover{
-    opacity: 50%;
+    opacity: 90%;
     transform: scale(1.2);
 }
 
@@ -95,13 +95,26 @@ transform: scale(1.2);
     position:absolute;
     bottom: 0;
     left: 0;
-    width: 100%;
-    background-color: #261040;
+    width: 95%;
+    background-color: #424142;
     color: white;
     padding: 10px;
     opacity: 0;
     transition: opacity 0.3s ease;
     pointer-events: none;
+    font-family: "Bruno Ace", sans-serif;
+}
+.p4:hover .imagem-description{
+    opacity: 1;
+    pointer-events: auto;
+}
+.p5:hover .imagem-description{
+    opacity: 1;
+    pointer-events: auto;
+}
+.p6:hover .imagem-description{
+    opacity: 1;
+    pointer-events: auto;
 }
 .p5{
     width: 30%;

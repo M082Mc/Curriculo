@@ -1,0 +1,46 @@
+body{
+    
+   
+
+    
+}
+
+.div0{
+
+ margin-top:0%;
+ margin-left:10%;
+ margin-right:10%;
+ position:absolute;
+       
+ background-image:url("brigadeiro.png");
+ 
+ opacity: 20%;
+ border-radius: 8%;*/
+
+
+}
+.div1{
+margin-top: 5%;
+margin-left: 25%;
+margin-right:10%;
+width: 800px;
+height: 1440px;
+background-color: #F0E8C2;
+border-radius: 24px;
+position:absolute;  
+
+}
+.div01{
+     margin-left: 15%;
+    margin-top: 10%;
+    margin-right: 10%;
+    width: 752;
+    height: 400;
+    
+    
+
+
+
+
+
+}
